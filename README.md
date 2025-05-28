@@ -1,6 +1,8 @@
 # Cuisine Insights: Analyzing Restaurant Trends
 Emphasizing exploration and filtering of restaurant data.
+
 📘 Project Overview
+
 This project explores restaurant data to extract insights about geographic distribution, customer preferences, and brand performance. The analysis focuses on identifying patterns in location data, customer ratings, and votes to help businesses make data-driven decisions.
 
 Key Goals:
@@ -21,6 +23,7 @@ Seaborn and Matplotlib for creating insightful plots.
 
 
 ✅ Conclusion
+
 Geospatial Insights: Restaurants are concentrated in major commercial hubs, forming visible clusters. These locations may be strategic for foot traffic and business visibility.
 
 Restaurant Chains: Several restaurant chains have multiple outlets, indicating successful expansion strategies. Chains with more outlets generally receive more votes, showing higher engagement.
